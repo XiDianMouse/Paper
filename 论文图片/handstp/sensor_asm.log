@@ -1,0 +1,135 @@
+﻿Pro/ENGINEER STEP 导入日志文件
+
+读取开始时间: Tue Mar 06 21:52:52 2018
+
+分级文件标题信息
+
+         File Description: 
+     Implementation level: 2;1
+                     Name: SENSOR_ASM
+               Time Stamp: 2018-03-06T
+                   Author: wen
+             Organization: 
+     Preprocessor Version: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2010280
+       Originating System: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2010280
+            Authorization: 
+              File Schema: CONFIG_CONTROL_DESIGN
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                     3
+ADVANCED_FACE                                        132
+APPLICATION_CONTEXT                                    1
+APPLICATION_PROTOCOL_DEFINITION                        1
+APPROVAL                                               1
+APPROVAL_DATE_TIME                                     1
+APPROVAL_PERSON_ORGANIZATION                           1
+APPROVAL_ROLE                                          1
+APPROVAL_STATUS                                        1
+AXIS2_PLACEMENT_3D                                   206
+B_SPLINE_CURVE_WITH_KNOTS                              4
+CALENDAR_DATE                                          1
+CARTESIAN_POINT                                      758
+CC_DESIGN_APPROVAL                                     1
+CC_DESIGN_DATE_AND_TIME_ASSIGNMENT                     2
+CC_DESIGN_PERSON_AND_ORGANIZATION_ASSIGNMENT           4
+CC_DESIGN_SECURITY_CLASSIFICATION                      1
+CIRCLE                                                66
+CLOSED_SHELL                                           3
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                 4
+CONVERSION_BASED_UNIT                                  4
+COORDINATED_UNIVERSAL_TIME_OFFSET                      1
+CYLINDRICAL_SURFACE                                   35
+DATE_AND_TIME                                          1
+DATE_TIME_ROLE                                         2
+DESIGN_CONTEXT                                         2
+DIMENSIONAL_EXPONENTS                                  4
+DIRECTION                                            700
+EDGE_CURVE                                           358
+EDGE_LOOP                                            154
+FACE_BOUND                                            22
+FACE_OUTER_BOUND                                     132
+FILE_DESCRIPTION                                       1
+FILE_NAME                                              1
+FILE_SCHEMA                                            1
+GEOMETRIC_REPRESENTATION_CONTEXT                       4
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                    4
+GLOBAL_UNIT_ASSIGNED_CONTEXT                           4
+ITEM_DEFINED_TRANSFORMATION                            4
+LENGTH_UNIT                                            4
+LINE                                                 288
+LOCAL_TIME                                             1
+MANIFOLD_SOLID_BREP                                    3
+MECHANICAL_CONTEXT                                     4
+NAMED_UNIT                                            16
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                         4
+ORGANIZATION                                           1
+ORIENTED_EDGE                                        716
+PERSON                                                 1
+PERSON_AND_ORGANIZATION                                1
+PERSON_AND_ORGANIZATION_ROLE                           4
+PLANE                                                 97
+PLANE_ANGLE_MEASURE_WITH_UNIT                          4
+PLANE_ANGLE_UNIT                                       8
+PRODUCT                                                4
+PRODUCT_CATEGORY                                       2
+PRODUCT_CATEGORY_RELATIONSHIP                          2
+PRODUCT_DEFINITION                                     4
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE     4
+PRODUCT_DEFINITION_SHAPE                               8
+PRODUCT_RELATED_PRODUCT_CATEGORY                       2
+REPRESENTATION_CONTEXT                                 4
+REPRESENTATION_RELATIONSHIP                            4
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION        4
+SECURITY_CLASSIFICATION                                1
+SECURITY_CLASSIFICATION_LEVEL                          1
+SHAPE_DEFINITION_REPRESENTATION                        4
+SHAPE_REPRESENTATION                                   1
+SHAPE_REPRESENTATION_RELATIONSHIP                      4
+SI_UNIT                                               12
+SOLID_ANGLE_UNIT                                       4
+UNCERTAINTY_MEASURE_WITH_UNIT                          4
+VECTOR                                               288
+VERTEX_POINT                                         236
+
+TOTAL                                               4371
+
+
+读取结束时间: Tue Mar 06 21:52:52 2018
+
+全部读取时间: 00:00:00.
+
+
+
+模型的处理信息 _sensor_asm:
+
+处理完成时间: Tue Mar 06 21:52:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 SENSOR_ASM_3:
+
+处理完成时间: Tue Mar 06 21:52:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LIANJIE00_26:
+
+处理完成时间: Tue Mar 06 21:52:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LIANJIE01_13:
+
+处理完成时间: Tue Mar 06 21:52:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LIANJIE02_11:
+
+处理完成时间: Tue Mar 06 21:52:52 2018
+
+全部处理时间: 00:00:00.

@@ -1,0 +1,476 @@
+﻿Pro/ENGINEER STEP 导入日志文件
+
+读取开始时间: Tue Mar 06 21:46:37 2018
+
+分级文件标题信息
+
+         File Description: 
+     Implementation level: 2;1
+                     Name: ASM_WHOLE_ASM
+               Time Stamp: 2018-03-06T
+                   Author: wen
+             Organization: 
+     Preprocessor Version: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2010280
+       Originating System: PRO/ENGINEER BY PARAMETRIC TECHNOLOGY CORPORATION, 2010280
+            Authorization: 
+              File Schema: CONFIG_CONTROL_DESIGN
+
+
+ADVANCED_BREP_SHAPE_REPRESENTATION                    42
+ADVANCED_FACE                                       3279
+APPLICATION_CONTEXT                                    1
+APPLICATION_PROTOCOL_DEFINITION                        1
+APPROVAL                                               1
+APPROVAL_DATE_TIME                                     1
+APPROVAL_PERSON_ORGANIZATION                           1
+APPROVAL_ROLE                                          1
+APPROVAL_STATUS                                        1
+AXIS2_PLACEMENT_3D                                  5176
+BOUNDED_SURFACE                                      222
+B_SPLINE_CURVE_WITH_KNOTS                           3170
+B_SPLINE_SURFACE                                     222
+B_SPLINE_SURFACE_WITH_KNOTS                          769
+CALENDAR_DATE                                          1
+CARTESIAN_POINT                                   120783
+CC_DESIGN_APPROVAL                                     1
+CC_DESIGN_DATE_AND_TIME_ASSIGNMENT                     2
+CC_DESIGN_PERSON_AND_ORGANIZATION_ASSIGNMENT           4
+CC_DESIGN_SECURITY_CLASSIFICATION                      1
+CIRCLE                                              2489
+CLOSED_SHELL                                          42
+CONICAL_SURFACE                                      146
+CONTEXT_DEPENDENT_SHAPE_REPRESENTATION                85
+CONVERSION_BASED_UNIT                                 50
+COORDINATED_UNIVERSAL_TIME_OFFSET                      1
+CYLINDRICAL_SURFACE                                 1205
+DATE_AND_TIME                                          1
+DATE_TIME_ROLE                                         2
+DESIGN_CONTEXT                                        25
+DIMENSIONAL_EXPONENTS                                 50
+DIRECTION                                          13255
+EDGE_CURVE                                          8540
+EDGE_LOOP                                           3533
+FACE_BOUND                                           254
+FACE_OUTER_BOUND                                    3279
+FILE_DESCRIPTION                                       1
+FILE_NAME                                              1
+FILE_SCHEMA                                            1
+GEOMETRIC_REPRESENTATION_CONTEXT                      50
+GEOMETRIC_REPRESENTATION_ITEM                        222
+GLOBAL_UNCERTAINTY_ASSIGNED_CONTEXT                   50
+GLOBAL_UNIT_ASSIGNED_CONTEXT                          50
+ITEM_DEFINED_TRANSFORMATION                           85
+LENGTH_UNIT                                           50
+LINE                                                2892
+LOCAL_TIME                                             1
+MANIFOLD_SOLID_BREP                                   42
+MANIFOLD_SURFACE_SHAPE_REPRESENTATION                  4
+MECHANICAL_CONTEXT                                    50
+NAMED_UNIT                                           200
+NEXT_ASSEMBLY_USAGE_OCCURRENCE                        85
+OPEN_SHELL                                             6
+ORGANIZATION                                           1
+ORIENTED_EDGE                                      17056
+PERSON                                                 1
+PERSON_AND_ORGANIZATION                                1
+PERSON_AND_ORGANIZATION_ROLE                           4
+PLANE                                                906
+PLANE_ANGLE_MEASURE_WITH_UNIT                         50
+PLANE_ANGLE_UNIT                                     100
+PRODUCT                                               50
+PRODUCT_CATEGORY                                       2
+PRODUCT_CATEGORY_RELATIONSHIP                          2
+PRODUCT_DEFINITION                                    50
+PRODUCT_DEFINITION_FORMATION_WITH_SPECIFIED_SOURCE    50
+PRODUCT_DEFINITION_SHAPE                             135
+PRODUCT_RELATED_PRODUCT_CATEGORY                       2
+RATIONAL_B_SPLINE_SURFACE                            222
+REPRESENTATION_CONTEXT                                50
+REPRESENTATION_ITEM                                  222
+REPRESENTATION_RELATIONSHIP                           85
+REPRESENTATION_RELATIONSHIP_WITH_TRANSFORMATION       85
+SECURITY_CLASSIFICATION                                1
+SECURITY_CLASSIFICATION_LEVEL                          1
+SHAPE_DEFINITION_REPRESENTATION                       50
+SHAPE_REPRESENTATION                                  10
+SHAPE_REPRESENTATION_RELATIONSHIP                     91
+SHELL_BASED_SURFACE_MODEL                              4
+SI_UNIT                                              150
+SOLID_ANGLE_UNIT                                      50
+SPHERICAL_SURFACE                                     19
+SURFACE                                              222
+SURFACE_OF_LINEAR_EXTRUSION                           11
+TOROIDAL_SURFACE                                     223
+UNCERTAINTY_MEASURE_WITH_UNIT                         50
+VECTOR                                              2903
+VERTEX_POINT                                        5415
+
+TOTAL                                             198700
+
+
+读取结束时间: Tue Mar 06 21:46:38 2018
+
+全部读取时间: 00:00:01.
+
+
+
+模型的处理信息 _hand:
+
+处理完成时间: Tue Mar 06 21:46:39 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 ASM_WHOLE_ASM_9:
+
+处理完成时间: Tue Mar 06 21:46:39 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM_SHUOTUO_ASM_6:
+
+处理完成时间: Tue Mar 06 21:46:39 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 21_SHUOTUOBAN_2:
+
+处理完成时间: Tue Mar 06 21:46:40 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 18_SHOUTUO_HENGGAN02_5:
+
+处理完成时间: Tue Mar 06 21:46:40 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 19_SHOUTUO_ZHICHENGGAN_2:
+
+处理完成时间: Tue Mar 06 21:46:40 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 20_SHUOTUO_HUAGAN_2:
+
+处理完成时间: Tue Mar 06 21:46:41 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 17_SHOUTUO_HENGGAN01_2:
+
+处理完成时间: Tue Mar 06 21:46:43 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 16_ZHUANXIANGGUAJIA_3:
+
+处理完成时间: Tue Mar 06 21:46:43 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 15_GUAJIA_3:
+
+处理完成时间: Tue Mar 06 21:46:43 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM_JIXIESHOU_ASM_4:
+
+处理完成时间: Tue Mar 06 21:46:43 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 01_HANDBASE_8:
+
+处理完成时间: Tue Mar 06 21:46:44 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 02_XIANJIA_4:
+
+处理完成时间: Tue Mar 06 21:46:45 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM_HUXINGJIA_DIZUO_ASM_4:
+
+处理完成时间: Tue Mar 06 21:46:45 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 03_DIANJIZUO_1:
+
+处理完成时间: Tue Mar 06 21:46:45 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 04_DIANJIZUOHUABAN_1:
+
+处理完成时间: Tue Mar 06 21:46:45 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM_HUXINGJIA_ASM_3:
+
+处理完成时间: Tue Mar 06 21:46:45 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 07_HUXINGJIA_TAOTONG_4:
+
+处理完成时间: Tue Mar 06 21:46:46 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 08_HUXINGJIA_CHANGGAN_2:
+
+处理问题和警告:
+-------------------------------------
+图元 63536, B_SPLINE_CURVE_WITH_KNOTS : 没有处理
+图元 63578, B_SPLINE_CURVE_WITH_KNOTS : 没有处理
+
+处理完成时间: Tue Mar 06 21:46:47 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 09_HUXINGJIA_LUOMAO_7:
+
+处理完成时间: Tue Mar 06 21:46:48 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 ASM_DIANJI_ASM_5:
+
+处理完成时间: Tue Mar 06 21:46:49 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 05_DIANJI_1:
+
+处理完成时间: Tue Mar 06 21:46:49 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 06_DIANJITUIGAN_1:
+
+处理完成时间: Tue Mar 06 21:46:49 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 10_LIANGAN_A_1:
+
+处理完成时间: Tue Mar 06 21:46:49 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 11_LIANGAN_B_1:
+
+处理完成时间: Tue Mar 06 21:46:49 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 12_ZHITAO_M_TOP_3:
+
+处理完成时间: Tue Mar 06 21:46:50 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 13_ZHITAO_M_DOWN_3:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 ZHUANZI_L12_1:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LUOSI_M3Y_3:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LUOSI_M2M5_2:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM_HUXINGJIA_MUZHI_ASM_2:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 14_DIANJIZUO_L_1:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 DIANPIAN_M5_3:
+
+处理完成时间: Tue Mar 06 21:46:51 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 DIEXINGLUOMAO_1:
+
+处理完成时间: Tue Mar 06 21:46:52 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 ZHUANZI_M5_17_1:
+
+处理完成时间: Tue Mar 06 21:46:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ZHUANZI_M5_12_2:
+
+处理完成时间: Tue Mar 06 21:46:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ZHUANZI_M5_9_2:
+
+处理完成时间: Tue Mar 06 21:46:52 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LUOSI_M5_20_1:
+
+处理完成时间: Tue Mar 06 21:46:53 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 LUOMAO_M5_1:
+
+处理完成时间: Tue Mar 06 21:46:53 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 LUOSI_M5_25_5:
+
+处理完成时间: Tue Mar 06 21:46:53 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 ASM_SHUOTUO_WG_ASM_2:
+
+处理完成时间: Tue Mar 06 21:46:53 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 WG_01_2:
+
+处理完成时间: Tue Mar 06 21:46:53 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 WG_02_1:
+
+处理完成时间: Tue Mar 06 21:46:54 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 WG_03_1:
+
+处理完成时间: Tue Mar 06 21:46:54 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 WG_05_1:
+
+处理完成时间: Tue Mar 06 21:46:54 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 WG_04_3:
+
+处理完成时间: Tue Mar 06 21:46:54 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 WG_06_2:
+
+处理完成时间: Tue Mar 06 21:46:54 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 22_TIAOJIELUOSI01_1:
+
+处理完成时间: Tue Mar 06 21:46:55 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 23_TIAOJIELUOSI02_1:
+
+处理完成时间: Tue Mar 06 21:46:55 2018
+
+全部处理时间: 00:00:00.
+
+
+模型的处理信息 23_TIAOJIELUOSI03_1:
+
+处理完成时间: Tue Mar 06 21:46:56 2018
+
+全部处理时间: 00:00:01.
+
+
+模型的处理信息 LUOSI_M25_1:
+
+处理完成时间: Tue Mar 06 21:46:56 2018
+
+全部处理时间: 00:00:00.
